@@ -1,0 +1,2 @@
+# hotmail
+hotmail/outlook
